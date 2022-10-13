@@ -3,13 +3,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
 
-- 👋 Hi, I’m @Anukriti-Nawani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m currently at Masai School
 
-<!---
-Anukriti-Nawani/Anukriti-Nawani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Learning **Full-Stack Web Development** from Masai School
+
+- 👨‍💻 All of my projects are available at [https://github.com/Anukriti-Nawani](https://github.com/Anukriti-Nawani)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **anunwn@gmail.com**
+
+- ⚡ Fun fact **I watch the funny videos often.**
+
+- 🎯 Hobbies :**coding📕 | dancing | Physical fitness👊**
+
+- ⚡ Fact :**It's never late to get started 🫀:**
+
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="center">
