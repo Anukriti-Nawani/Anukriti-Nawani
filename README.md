@@ -45,4 +45,14 @@
 </p>
 
 
+<p align="center">
+  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anukriti-Nawani&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
+
+
+<p align="center">
+  <img alt="Sabira Stats" src="https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=radical">
+</p><p align="center">
+  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
+
 </div>
