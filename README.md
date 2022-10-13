@@ -27,10 +27,10 @@
 
 ## 🛠 My Toolkit : 
 
-<div margin-top="2rem">
+<div>
 
  <!-- [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git,heroku,MongoDb,nodejs,redux)](https://skills.thijs.gg) -->
-<p>
+<p margin-bottom="2rem">
 
    <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
