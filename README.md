@@ -45,9 +45,15 @@
 </p>
 
 <br /><br />
-
+## Current Stats:
 
 | ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
 | :---: | :---: |
+
+<br /><br />
+
+<p align="center">
+  <img width="300" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
 
 </div>
