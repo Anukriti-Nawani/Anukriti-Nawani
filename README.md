@@ -1,3 +1,8 @@
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish4git&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
+
+
 - 👋 Hi, I’m @Anukriti-Nawani
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
