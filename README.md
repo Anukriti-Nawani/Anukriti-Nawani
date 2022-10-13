@@ -41,7 +41,7 @@
 
   
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://git.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/344/git.png" alt="heroku" width="40" height="40"/> </a> 
+<a href="https://git.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/git.png" alt="heroku" width="40" height="40"/> </a> 
 
 
 
