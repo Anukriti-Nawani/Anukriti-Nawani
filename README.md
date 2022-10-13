@@ -20,5 +20,15 @@
 - ⚡ Fact :**It's never late to get started 🫀:**
 
 </br>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="center"> -->
+
+<br /><br />
+
+## 🛠 My Toolkit : 
+
+<div>
+
+ [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
+
+</div>
