@@ -27,7 +27,7 @@
 
 ## 🛠 My Toolkit : 
 
-<div>
+<div margin-top="2rem">
 
  <!-- [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git,heroku,MongoDb,nodejs,redux)](https://skills.thijs.gg) -->
 <p>
@@ -43,7 +43,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
   
 </p>
-
+</div>
 | ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
 | :---: | :---: |
-</div>
+
