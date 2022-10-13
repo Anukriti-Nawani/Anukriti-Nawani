@@ -44,15 +44,6 @@
   
 </p>
 
-<div display="flex">
-<p>
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anukriti-Nawani&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
-
-
-<p>
-  <img alt="Sabira Stats" src="https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=radical">
-</p><p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p>
-</div>
+| ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anukrit-Nawani&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
+| :---: | :---: |
 </div>
