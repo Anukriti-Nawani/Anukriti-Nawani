@@ -29,6 +29,6 @@
 
 <div>
 
- [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git,heroku,mongoDb,redux)](https://skills.thijs.gg)
 
 </div>
