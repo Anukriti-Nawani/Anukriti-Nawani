@@ -53,7 +53,7 @@
 <br /><br />
 
 <p align="center">
-  <img width="300" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
+  <img width="250" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 
 </div>
