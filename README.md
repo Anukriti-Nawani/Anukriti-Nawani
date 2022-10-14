@@ -2,7 +2,7 @@
 [![Anukriti's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/)
 
 <!-- Adding Social Buttons -->
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="www.linkedin.com/in/harshal-jadhav">
     <img src="https://img.shields.io/badge/Harshal Jadhav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div> -->
 <h1></h1>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
