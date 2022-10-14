@@ -3,7 +3,7 @@
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/anukriti-nawani">
+  <a href="https://www.linkedin.com/in/anukriti-nawani-939672232/">
     <img src="https://img.shields.io/badge/Anukriti Nawani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- <a href="mailto:harshaljadhav1000@gmail.com">
