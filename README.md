@@ -3,8 +3,8 @@
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/Anukriti Nawani">
-    <img src="https://img.shields.io/badge/Anukriti Nawani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="www.linkedin.com/in/anukriti-nawani">
+    <img src="https://img.shields.io/badge/anukriti-nawani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- <a href="mailto:harshaljadhav1000@gmail.com">
     <img src="https://img.shields.io/badge/Harshal Jadhav-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
