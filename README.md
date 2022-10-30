@@ -12,9 +12,9 @@
   <a href="https://github.com/Anukriti-Nawani/Anukriti-Nawani.github.io">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
-  <!-- <a href="https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing](https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl)">
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
 </div>
 
 <br> <br>
