@@ -9,7 +9,7 @@
   <a href="mailto:anunwn@gmail.com">
     <img src="https://img.shields.io/badge//Anukriti Nawani-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Anukriti-Nawani/Anukriti-Nawani.github.io">
+  <a href="https://anukriti-nawani.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl">
