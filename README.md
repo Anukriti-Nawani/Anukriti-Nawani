@@ -1,5 +1,5 @@
 <!-- Github Banner Section-->
-[![Anukriti's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/)
+[![Anukriti's GitHub Banner](./assets/GithubBanner.png)](https://anukriti-nawani.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
