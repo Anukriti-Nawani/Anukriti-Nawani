@@ -69,7 +69,7 @@
 <br /><br />
 ## Current Stats:
 
-| ![Anukriti's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
+| ![Anukriti's GitHub stats] (https://github-readme-stats-eight-theta.vercel.app/api?username=anukriti-nawani&show_icons=true&theme=light&include_all_commits=true&count_private=true) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
 | :---: | :---: |
   
 <!--    -->
